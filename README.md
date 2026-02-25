@@ -13,16 +13,17 @@ Basic introduction and environment verification.
 Deep dive into JavaScript fundamentals essential for automation.
 - `03_Literals.js`: Understanding Identifiers, Literals, and Operators.
 
-## How to Run
-Ensure you have Playwright installed:
-```bash
-npm install @playwright/test
-```
+## Prerequisites
 
-To run a specific script:
-```bash
-node Chapter_01_Basics/01_Verify_Setup.js
-```
+Ensure you have the following installed:
+- **Node.js**: Required to run JavaScript environments.
+- **Git Bash**: Recommended for Windows users to use Git commands easily. You can download it from [git-scm.com](https://git-scm.com/).
+- **Playwright**:
+  ```bash
+  npm install @playwright/test
+  ```
+
+## How to Run
 
 ## Tools Used
 - Playwright
